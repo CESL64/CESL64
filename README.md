@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Developer" />
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/ERP-Consulting-6C757D?style=for-the-badge" alt="ERP Consulting" />
   <img src="https://img.shields.io/badge/Open%20to-Odoo%20Opportunities-5E8E3E?style=for-the-badge" alt="Open to Odoo Opportunities" />
 </p>
