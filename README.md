@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am an Odoo ERP developer and consultant with hands-on experience delivering business solutions across **Odoo 14, 15, 16, and 17**. My work combines **technical development, functional consulting, implementation, user training, and post-go-live support**, allowing me to contribute from both the business and engineering sides of an ERP project.
+I am an Odoo ERP developer and consultant with hands-on experience delivering business solutions across **Odoo 14, 15, 16, 17 and 18**. My work combines **technical development, functional consulting, implementation, user training, and post-go-live support**, allowing me to contribute from both the business and engineering sides of an ERP project.
 
 I enjoy building solutions that turn complex operational needs into efficient, scalable Odoo workflows. My background includes projects in **accounting, billing, inventory, tax reporting, HR-related processes, sales, and document automation**, always with a strong focus on usability, business value, and long-term maintainability.
 
